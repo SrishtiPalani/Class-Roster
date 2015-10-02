@@ -1,3 +1,8 @@
+A Class Roster Program implemented with an easy-to-use GUI and based on Doubly Linked List Data Structure to keep track of students during the add/drop period   
+Add/Remove student while maintaining the alphabetical order of the list
+Intended user: Class Instructor
+
+
 LinkedList.java : Describes a generic Linked List  data structure
 LinkedListNode.java :  Describes a generic Linked List Node
 LinkedListTest.java : A Junit Tester class to test the functionality of the Linked List Data Structure
